@@ -35,6 +35,6 @@ I am an IT Student specializing in the intersection of **Deep Learning** and **W
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [https://www.linkedin.com/in/sai-jadhav-13b763365]
+* **Linkedin:** [https://www.linkedin.com/in/sai-jadhav-13b763365]
 * **GitHub:** [jadhavsai544]
 * **Email:** jadhavsai544@gmail.com
