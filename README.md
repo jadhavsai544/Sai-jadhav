@@ -1,4 +1,5 @@
-# Sai's portfoli
+# Sai's portfolio
+
 # Hi, I'm Sai Santosh Jadhav 👋
 ### Full Stack Developer & AI/ML Researcher
 
